@@ -4,3 +4,6 @@ install:
 
 format:
 	pipenv run autopep8 --in-place --recursive server
+
+run:
+	docker-compose up --build

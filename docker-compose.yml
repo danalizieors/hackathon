@@ -1,7 +1,7 @@
 version: '3'
 
 services:
-  python:
+  web:
     build: ./server
     ports:
-      - "80:80"
+      - 80:5000

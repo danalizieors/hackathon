@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "last_seen": "2019-10-15T20:35:21.436329+00:00",
+            "state": {
+                "attributes": {
+                    "editable": true,
+                    "friendly_name": "\u00d6rs",
+                    "id": "10f284ebfd494d129a345003df4aaf60",
+                    "user_id": "9046bf866c084b009283260f1c66a503"
+                },
+                "context": {
+                    "id": "31995f1bcaa0483ba4cc9f5f77644e7d",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "person.ors",
+                "last_changed": "2019-10-15T20:32:24.676815+00:00",
+                "last_updated": "2019-10-15T20:32:29.869645+00:00",
+                "state": "unknown"
+            }
+        }
+    ],
+    "key": "core.restore_state",
+    "version": 1
+}

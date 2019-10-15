@@ -4,4 +4,10 @@ services:
   api:
     build: ./server
     ports:
-      - 80:5000
+      - 5000:5000
+  home:
+    build: ./home
+    volumes:
+      - ./home-data:/config
+    ports:
+      - 8123:8123

@@ -11,3 +11,7 @@ services:
       - ./home-data:/config
     ports:
       - 8123:8123
+  sensor-mock:
+    build: ./sensor-mock
+    ports:
+      - 9000:9000

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1064256537264",
+    "firebase_url": "https://mock-aa0fe.firebaseio.com",
+    "project_id": "mock-aa0fe",
+    "storage_bucket": "mock-aa0fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1064256537264:android:545da8c4c7b3368b3a7175",
+        "android_client_info": {
+          "package_name": "szab.mock"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1064256537264-rd5a9v3jrva3asspv2br2v2a2cn2shrc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "szab.mock",
+            "certificate_hash": "19d63e105df4605aef6cd69844eeea1c7b5159b4"
+          }
+        },
+        {
+          "client_id": "1064256537264-3pcuum1kuf6sgkvj7ksiahspud8a2e5j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNMih4zC2-JYzs7EjWWq2RZBD8WpMtEsc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1064256537264-3pcuum1kuf6sgkvj7ksiahspud8a2e5j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

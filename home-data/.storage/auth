@@ -221,6 +221,20 @@
                 "token": "dce131a774bb25b26c6c6e4e34c7f6df0b3dbf29835fd3338c3fbd4ea13b1dc5cfc142f56bb9398040b197dcc32cba997b907b802f481208576ee457a7230dc9",
                 "token_type": "long_lived_access_token",
                 "user_id": "8756ee53061c4dc1822916c9938c4684"
+            },
+            {
+                "access_token_expiration": 1800.0,
+                "client_icon": null,
+                "client_id": "http://localhost:8123/",
+                "client_name": null,
+                "created_at": "2019-10-16T16:11:41.593831+00:00",
+                "id": "37a258853ff34d5491f8cefed80636cb",
+                "jwt_key": "d35ee2004a4eac3425609512792281a6058d84f73c935b1acd46d3f5bb9673efcdcbc53f822d8e202f7cabb0cbad6079ea2dda01086a97b573c03c603284cc4d",
+                "last_used_at": "2019-10-16T16:11:41.594008+00:00",
+                "last_used_ip": "192.168.64.1",
+                "token": "36b191d6142d553bd75028b382d7aba9493a9d0943900ff78a13519d24e5013e0603bf4890aaf9670d46f65588c4113e1eeb72a0ffce91ef7ff3e77f7912cf27",
+                "token_type": "normal",
+                "user_id": "8756ee53061c4dc1822916c9938c4684"
             }
         ],
         "users": [

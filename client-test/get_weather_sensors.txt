@@ -1,0 +1,3 @@
+GET http://localhost:8123/api/states/weather.home HTTP/1.1
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJhMjdkYWM4NTgxYTM0NjJkODI1Mzk3ZGRiNzRmODJiOCIsImlhdCI6MTU3MTIzOTI0MywiZXhwIjoxODg2NTk5MjQzfQ.m0VTX-o2LG3iwPKHshurV-c-wLEcjYzgTNU9Kv0o99Q
+content-type: application/json

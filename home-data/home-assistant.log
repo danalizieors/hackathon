@@ -1,6 +1,4 @@
-2019-10-16 10:43:43 WARNING (SyncWorker_18) [homeassistant.components.rest.sensor] REST result could not be parsed as JSON
-2019-10-16 10:44:14 WARNING (SyncWorker_1) [homeassistant.components.rest.sensor] REST result could not be parsed as JSON
-2019-10-16 10:44:45 WARNING (SyncWorker_10) [homeassistant.components.rest.sensor] REST result could not be parsed as JSON
-2019-10-16 10:45:16 WARNING (SyncWorker_16) [homeassistant.components.rest.sensor] REST result could not be parsed as JSON
-2019-10-16 10:45:47 WARNING (SyncWorker_0) [homeassistant.components.rest.sensor] REST result could not be parsed as JSON
-2019-10-16 10:46:18 WARNING (SyncWorker_8) [homeassistant.components.rest.sensor] REST result could not be parsed as JSON
+2019-10-16 15:14:07 WARNING (MainThread) [homeassistant.components.template.sensor] Could not render template illuminance, the state is unknown.
+2019-10-16 15:14:07 WARNING (MainThread) [homeassistant.components.template.sensor] Could not render template dust, the state is unknown.
+2019-10-16 15:14:07 WARNING (MainThread) [homeassistant.components.template.sensor] Could not render template noise, the state is unknown.
+2019-10-16 15:14:07 WARNING (MainThread) [homeassistant.components.template.sensor] Could not render template humidity, the state is unknown.

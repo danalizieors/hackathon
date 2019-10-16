@@ -16,9 +16,31 @@ script: !include scripts.yaml
 
 sensor:
   - platform: rest
-    name: JSON time
+    name: ambient_sensors
+    resource: http://sensor-mock:9000/sensor
     json_attributes:
-      - date
-      - milliseconds_since_epoch
-    resource: http://sensor-mock:9000/temperature
-    value_template: '{{ value_json.time }}'
+      - temperature
+      - humidity
+      - illuminance
+      - dust
+      - noise
+  - platform: template
+    sensors:
+      temperature:
+        value_template: '{{ states.sensor.ambient_sensors.attributes["temperature"] }}'
+        device_class: temperature
+        unit_of_measurement: '°C'
+      humidity:
+        value_template: '{{ states.sensor.ambient_sensors.attributes["humidity"] }}'
+        device_class: humidity
+        unit_of_measurement: '%'
+      illuminance:
+        value_template: '{{ states.sensor.ambient_sensors.attributes["illuminance"] }}'
+        device_class: illuminance
+        unit_of_measurement: 'lx'
+      dust:
+        value_template: '{{ states.sensor.ambient_sensors.attributes["dust"] }}'
+        unit_of_measurement: '%'
+      noise:
+        value_template: '{{ states.sensor.ambient_sensors.attributes["noise"] }}'
+        unit_of_measurement: '%'

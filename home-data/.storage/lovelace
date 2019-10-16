@@ -12,13 +12,28 @@
                     ],
                     "cards": [
                         {
-                            "entity": "weather.home",
-                            "type": "weather-forecast"
+                            "entity": "sensor.temperature",
+                            "name": "Temperature",
+                            "type": "sensor"
                         },
                         {
-                            "entity": "sensor.json_time",
-                            "name": "Mock sensor",
+                            "entity": "sensor.humidity",
+                            "name": "Humidity",
                             "type": "sensor"
+                        },
+                        {
+                            "entity": "sensor.dust",
+                            "name": "Dust",
+                            "type": "sensor"
+                        },
+                        {
+                            "entity": "sensor.noise",
+                            "name": "Noise",
+                            "type": "sensor"
+                        },
+                        {
+                            "entity": "weather.home",
+                            "type": "weather-forecast"
                         }
                     ],
                     "path": "default_view",

@@ -1,0 +1,10 @@
+POST http://localhost:9000/sensor HTTP/1.1
+content-type: application/json
+
+{
+  "dust": 35,
+  "humidity": 48,
+  "illuminance": 358,
+  "noise": 45,
+  "temperature": 21.5
+}

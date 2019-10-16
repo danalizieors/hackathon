@@ -1,5 +1,5 @@
-from src.resources.Temperature import Temperature
+from src.resources.Sensor import Sensor
 
 
 def route(api):
-    api.add_resource(Temperature, '/temperature')
+    api.add_resource(Sensor, '/sensor')

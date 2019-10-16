@@ -1,0 +1,35 @@
+{
+    "data": {
+        "entities": [
+            {
+                "config_entry_id": null,
+                "device_id": null,
+                "disabled_by": null,
+                "entity_id": "binary_sensor.updater",
+                "name": null,
+                "platform": "updater",
+                "unique_id": "updater"
+            },
+            {
+                "config_entry_id": null,
+                "device_id": null,
+                "disabled_by": null,
+                "entity_id": "person.ors",
+                "name": null,
+                "platform": "person",
+                "unique_id": "bbf5bdec7d294c9597dc64eb953ffcd8"
+            },
+            {
+                "config_entry_id": "968ae449cff3435aa0bd4188850f4dd4",
+                "device_id": null,
+                "disabled_by": null,
+                "entity_id": "weather.home",
+                "name": null,
+                "platform": "met",
+                "unique_id": "home"
+            }
+        ]
+    },
+    "key": "core.entity_registry",
+    "version": 1
+}

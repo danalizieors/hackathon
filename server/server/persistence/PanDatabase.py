@@ -31,6 +31,7 @@ class PanDatabase:
     def add(self, key, values):
         data_frame = getattr(self, key)
         new_data_frame = data_frame.append(values, ignore_index=True, sort=False)
+        new_data_frame['id'] = new_data_frame.index
         setattr(self, key, new_data_frame)
 
 

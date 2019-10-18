@@ -19,7 +19,5 @@ def getPostBy(id):
 
 
 def addPost(data):
-    DATABASE.posts = DATABASE.posts.append(data, ignore_index=True)
-    posts = DATABASE.posts
-    posts['id'] = posts.index
-    return len(posts) - 1
+    DATABASE.add('posts', data)
+    return len(DATABASE.posts) - 1

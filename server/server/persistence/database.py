@@ -1,7 +1,9 @@
 import pandas as pd
 
+from server.persistence.PanDatabase import PanDatabase
 
-class Database:
+
+class Database(PanDatabase):
     def __init__(self):
         self.posts = columns(
             'id',
@@ -14,6 +16,10 @@ class Database:
             'precipitation',
             'wind',
         )
+        self.example = columns(
+            'first',
+            'second',
+        )
 
 
 def columns(*names):
@@ -21,3 +27,5 @@ def columns(*names):
 
 
 DATABASE = Database()
+DATABASE.load('../../database/mock')
+print(DATABASE)

@@ -2,6 +2,7 @@ from flask import request
 from flask_restful import Resource
 
 import server.persistence.utils as u
+from server.learning.mock.predictor import predict
 
 
 class Advice(Resource):
@@ -9,6 +10,5 @@ class Advice(Resource):
         data = request.json
         id = u.addPost(data)
         post = u.getPostBy(id)
-        # call predictor below
-        prediction = post
+        prediction = predict(post)
         return prediction

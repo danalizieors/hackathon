@@ -6,19 +6,32 @@ from server.persistence.PanDatabase import PanDatabase
 class Database(PanDatabase):
     def __init__(self):
         self.posts = columns(
-            'id',
-            'user_id',
-            'symptom',
+
+            # identification
+            'id',  # automatically set
+            'user_id',  # sent in request
+
+            # user defined
+            'type',  # acute | chronic
+            'symptom',  # selected or defined by user
+            'affected',  # is the user currently affected
+            'notice',  # user's observations
+
+            # phone
             'time',
             'location',
+
+            # outside
             'temperature',
+            'pressure',
             'humidity',
-            'precipitation',
             'wind',
-        )
-        self.example = columns(
-            'first',
-            'second',
+
+            # inside
+            'in_temperature',
+            'in_humidity',
+            'in_dust',
+            'in_noise',
         )
 
 

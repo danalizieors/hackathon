@@ -13,6 +13,16 @@ services:
       - internal
     ports:
       - 8123:8123
+  jupyter:
+    build: jupyter
+    environment:
+      - JUPYTER_ENABLE_LAB=yes
+    volumes:
+      - ./server:/home/jovyan/work/server
+      - ./database:/home/jovyan/work/database
+      - ./jupyter-data:/home/jovyan/work/jupyter
+    ports:
+      - "8888:8888"
   sensor-mock:
     build: ./sensor-mock
     networks:

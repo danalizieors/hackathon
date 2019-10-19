@@ -1,0 +1,20 @@
+POST http://localhost:5000/posts HTTP/1.1
+content-type: application/json
+
+{
+    "user_id": "qwertyuiop",
+    "symptom_id": 23,
+    "time": 63,
+    "location": "4324",
+    "temperature": 19,
+    "pressure": 600,
+    "humidity": 45,
+    "wind": 34,
+    "in_temperature": 22,
+    "in_humidity": 34,
+    "in_dust": 56,
+    "in_noise": 26,
+    "fitness": 87,
+    "pulse": 63,
+    "sleep": 84
+}

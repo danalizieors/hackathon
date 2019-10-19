@@ -1,0 +1,2 @@
+GET http://localhost:5000/posts?user_id=qwertyuiop HTTP/1.1
+content-type: application/json

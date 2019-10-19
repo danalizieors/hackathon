@@ -1,0 +1,17 @@
+POST http://localhost:5000/users HTTP/1.1
+content-type: application/json
+
+{
+    "user_token":"qwerty",
+    "sex": "F",
+    "year_of_birth": 1992,
+    "height": 174,
+    "weight": 74,
+    "fitness": 59,
+    "pulse": 58,
+    "sleep": 78,
+    "noise": 53,
+    "home_location": 54,
+    "in_temperature": 23,
+    "in_humidity": 34
+}

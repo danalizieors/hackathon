@@ -1,0 +1,114 @@
+[
+  {
+    "id": 0,
+    "symptom": "headache",
+    "metric": "pulse",
+    "relation": 0,
+    "score": 90
+  },
+  {
+    "id": 1,
+    "symptom": "headache",
+    "metric": "pulse",
+    "relation": 1,
+    "score": 45
+  },
+  {
+    "id": 2,
+    "symptom": "headache",
+    "metric": "humidity",
+    "relation": 0,
+    "score": 96
+  },
+  {
+    "id": 3,
+    "symptom": "headache",
+    "metric": "humidity",
+    "relation": 1,
+    "score": 26
+  },
+  {
+    "id": 4,
+    "symptom": "diarrhea",
+    "metric": "pulse",
+    "relation": 0,
+    "score": 28
+  },
+  {
+    "id": 5,
+    "symptom": "diarrhea",
+    "metric": "pulse",
+    "relation": 1,
+    "score": 55
+  },
+  {
+    "id": 6,
+    "symptom": "diarrhea",
+    "metric": "humidity",
+    "relation": 0,
+    "score": 6
+  },
+  {
+    "id": 7,
+    "symptom": "diarrhea",
+    "metric": "humidity",
+    "relation": 1,
+    "score": 5
+  },
+  {
+    "id": 8,
+    "symptom": "flu",
+    "metric": "pulse",
+    "relation": 0,
+    "score": 10
+  },
+  {
+    "id": 9,
+    "symptom": "flu",
+    "metric": "pulse",
+    "relation": 1,
+    "score": 38
+  },
+  {
+    "id": 10,
+    "symptom": "flu",
+    "metric": "humidity",
+    "relation": 0,
+    "score": 59
+  },
+  {
+    "id": 11,
+    "symptom": "flu",
+    "metric": "humidity",
+    "relation": 1,
+    "score": 86
+  },
+  {
+    "id": 12,
+    "symptom": "inflamed skin",
+    "metric": "pulse",
+    "relation": 0,
+    "score": 48
+  },
+  {
+    "id": 13,
+    "symptom": "inflamed skin",
+    "metric": "pulse",
+    "relation": 1,
+    "score": 53
+  },
+  {
+    "id": 14,
+    "symptom": "inflamed skin",
+    "metric": "humidity",
+    "relation": 0,
+    "score": 37
+  },
+  {
+    "id": 15,
+    "symptom": "inflamed skin",
+    "metric": "humidity",
+    "relation": 1,
+    "score": 96
+  }
+]

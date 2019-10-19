@@ -1,1 +1,74 @@
-[]
+[
+  {
+    "id": 0,
+    "symptom": "headache",
+    "text": "Drinking more water",
+    "score": 97
+  },
+  {
+    "id": 1,
+    "symptom": "headache",
+    "text": "Taking a nap",
+    "score": 84
+  },
+  {
+    "id": 2,
+    "symptom": "headache",
+    "text": "Taking a chillpill",
+    "score": 83
+  },
+  {
+    "id": 3,
+    "symptom": "diarrhea",
+    "text": "Eating banana",
+    "score": 53
+  },
+  {
+    "id": 4,
+    "symptom": "diarrhea",
+    "text": "Drinking green tea",
+    "score": 53
+  },
+  {
+    "id": 5,
+    "symptom": "diarrhea",
+    "text": "Eating cocoiza dzsem",
+    "score": 46
+  },
+  {
+    "id": 6,
+    "symptom": "flu",
+    "text": "Drinking tea with honey and lemon",
+    "score": 20
+  },
+  {
+    "id": 7,
+    "symptom": "flu",
+    "text": "Eating grapefruit",
+    "score": 37
+  },
+  {
+    "id": 8,
+    "symptom": "flu",
+    "text": "Taking a nap",
+    "score": 57
+  },
+  {
+    "id": 9,
+    "symptom": "inflamed skin",
+    "text": "Applying body milk on your skin",
+    "score": 41
+  },
+  {
+    "id": 10,
+    "symptom": "inflamed skin",
+    "text": "Keeping your skin dry",
+    "score": 81
+  },
+  {
+    "id": 11,
+    "symptom": "inflamed skin",
+    "text": "Wearing clothes made from cotton instead of synthetic materials",
+    "score": 89
+  }
+]

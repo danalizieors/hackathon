@@ -34,7 +34,8 @@ class Database(PanDatabase):
             'user_id',
 
             # user defined
-            'symptom_id',
+            'symptom',
+            'severity',
 
             # phone
             'time',
@@ -65,26 +66,27 @@ class Database(PanDatabase):
             'post_id_solution',
         )
 
-        self.symptoms = columns(
-
-            # identification
-            'id',
-            'user_id',
-
-            # attributes
-            'severity',
-            'suggestion_id',
-        )
-
         self.suggestions = columns(
 
             # identification
             'id',
-            'user_id',
 
             # attributes
-            'text'
+            'symptom',
+            'text',
             'score',
+        )
+
+        self.targeted_suggestions = columns(
+
+            # identification
+            'id',
+
+            # attributes
+            'symptom',
+            'metric',
+            'relation',
+            'score'
         )
 
 

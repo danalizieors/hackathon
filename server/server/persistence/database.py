@@ -9,6 +9,7 @@ class Database(PanDatabase):
 
             # identification
             'id',
+            'user_token',
 
             # attributes
             'sex',

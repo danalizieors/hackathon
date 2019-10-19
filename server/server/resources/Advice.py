@@ -2,7 +2,7 @@ from flask import request
 from flask_restful import Resource
 
 import server.persistence.utils as u
-from server.learning.mock.predictor import predict
+from server.learning.predictor import predict
 
 
 class Advice(Resource):

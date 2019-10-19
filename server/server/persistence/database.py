@@ -92,5 +92,3 @@ def columns(*names):
 
 
 DATABASE = Database()
-DATABASE.load('../../database/')
-print(DATABASE)

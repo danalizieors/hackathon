@@ -1,7 +1,7 @@
 [
   {
     "id": 0,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 2004,
     "height": 140,
@@ -13,11 +13,11 @@
     "home_location": "miercurea ciuc",
     "in_temperature": 243,
     "in_humidity": 53,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 1,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 2003,
     "height": 123,
@@ -29,11 +29,11 @@
     "home_location": "budapest",
     "in_temperature": 209,
     "in_humidity": 62,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 2,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 1994,
     "height": 167,
@@ -45,11 +45,11 @@
     "home_location": "london",
     "in_temperature": 290,
     "in_humidity": 67,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 3,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 1993,
     "height": 189,
@@ -61,11 +61,11 @@
     "home_location": "london",
     "in_temperature": 180,
     "in_humidity": 48,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 4,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 1997,
     "height": 154,
@@ -77,11 +77,11 @@
     "home_location": "london",
     "in_temperature": 276,
     "in_humidity": 37,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 5,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 1999,
     "height": 143,
@@ -93,11 +93,11 @@
     "home_location": "budapest",
     "in_temperature": 315,
     "in_humidity": 39,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 6,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 0,
     "year_of_birth": 1991,
     "height": 124,
@@ -109,11 +109,11 @@
     "home_location": "budapest",
     "in_temperature": 319,
     "in_humidity": 41,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 7,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 1990,
     "height": 154,
@@ -125,11 +125,11 @@
     "home_location": "tokyo",
     "in_temperature": 320,
     "in_humidity": 63,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 8,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 0,
     "year_of_birth": 2003,
     "height": 129,
@@ -145,7 +145,7 @@
   },
   {
     "id": 9,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 0,
     "year_of_birth": 1995,
     "height": 147,
@@ -161,7 +161,7 @@
   },
   {
     "id": 10,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 1991,
     "height": 167,
@@ -177,7 +177,7 @@
   },
   {
     "id": 11,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 0,
     "year_of_birth": 1996,
     "height": 143,
@@ -189,11 +189,11 @@
     "home_location": "kairo",
     "in_temperature": 300,
     "in_humidity": 58,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 12,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 2004,
     "height": 173,
@@ -205,11 +205,11 @@
     "home_location": "london",
     "in_temperature": 171,
     "in_humidity": 54,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 13,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 0,
     "year_of_birth": 2004,
     "height": 135,
@@ -221,11 +221,11 @@
     "home_location": "moscow",
     "in_temperature": 281,
     "in_humidity": 46,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 14,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 0,
     "year_of_birth": 1997,
     "height": 125,
@@ -237,11 +237,11 @@
     "home_location": "tokyo",
     "in_temperature": 232,
     "in_humidity": 31,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 15,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 2000,
     "height": 123,
@@ -253,11 +253,11 @@
     "home_location": "london",
     "in_temperature": 316,
     "in_humidity": 66,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 16,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 0,
     "year_of_birth": 1998,
     "height": 147,
@@ -273,7 +273,7 @@
   },
   {
     "id": 17,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 0,
     "year_of_birth": 2003,
     "height": 141,
@@ -285,11 +285,11 @@
     "home_location": "london",
     "in_temperature": 220,
     "in_humidity": 54,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 18,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 2002,
     "height": 133,
@@ -305,7 +305,7 @@
   },
   {
     "id": 19,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 1995,
     "height": 177,
@@ -321,7 +321,7 @@
   },
   {
     "id": 20,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 0,
     "year_of_birth": 1993,
     "height": 127,
@@ -333,11 +333,11 @@
     "home_location": "moscow",
     "in_temperature": 201,
     "in_humidity": 38,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 21,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 2002,
     "height": 156,
@@ -353,7 +353,7 @@
   },
   {
     "id": 22,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 0,
     "year_of_birth": 2000,
     "height": 179,
@@ -369,7 +369,7 @@
   },
   {
     "id": 23,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 1993,
     "height": 166,
@@ -381,11 +381,11 @@
     "home_location": "miercurea ciuc",
     "in_temperature": 262,
     "in_humidity": 52,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 24,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 0,
     "year_of_birth": 2003,
     "height": 179,
@@ -401,7 +401,7 @@
   },
   {
     "id": 25,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 0,
     "year_of_birth": 2002,
     "height": 142,
@@ -413,11 +413,11 @@
     "home_location": "kairo",
     "in_temperature": 274,
     "in_humidity": 51,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 26,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 0,
     "year_of_birth": 1996,
     "height": 138,
@@ -433,7 +433,7 @@
   },
   {
     "id": 27,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 0,
     "year_of_birth": 1999,
     "height": 180,
@@ -449,7 +449,7 @@
   },
   {
     "id": 28,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 2001,
     "height": 125,
@@ -465,7 +465,7 @@
   },
   {
     "id": 29,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 1992,
     "height": 128,
@@ -481,7 +481,7 @@
   },
   {
     "id": 30,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 0,
     "year_of_birth": 1995,
     "height": 174,
@@ -497,7 +497,7 @@
   },
   {
     "id": 31,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 2000,
     "height": 177,
@@ -513,7 +513,7 @@
   },
   {
     "id": 32,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 0,
     "year_of_birth": 2002,
     "height": 153,
@@ -529,7 +529,7 @@
   },
   {
     "id": 33,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 0,
     "year_of_birth": 2002,
     "height": 143,
@@ -541,11 +541,11 @@
     "home_location": "miercurea ciuc",
     "in_temperature": 264,
     "in_humidity": 63,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 34,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 2003,
     "height": 188,
@@ -557,11 +557,11 @@
     "home_location": "london",
     "in_temperature": 160,
     "in_humidity": 49,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 35,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 0,
     "year_of_birth": 1998,
     "height": 143,
@@ -577,7 +577,7 @@
   },
   {
     "id": 36,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 1992,
     "height": 173,
@@ -593,7 +593,7 @@
   },
   {
     "id": 37,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 0,
     "year_of_birth": 2003,
     "height": 154,
@@ -609,7 +609,7 @@
   },
   {
     "id": 38,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 0,
     "year_of_birth": 2004,
     "height": 159,
@@ -621,11 +621,11 @@
     "home_location": "london",
     "in_temperature": 273,
     "in_humidity": 66,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 39,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 0,
     "year_of_birth": 1997,
     "height": 149,
@@ -641,7 +641,7 @@
   },
   {
     "id": 40,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 1994,
     "height": 187,
@@ -657,7 +657,7 @@
   },
   {
     "id": 41,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 0,
     "year_of_birth": 1994,
     "height": 132,
@@ -669,11 +669,11 @@
     "home_location": "miercurea ciuc",
     "in_temperature": 186,
     "in_humidity": 54,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 42,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 0,
     "year_of_birth": 2003,
     "height": 181,
@@ -685,11 +685,11 @@
     "home_location": "miercurea ciuc",
     "in_temperature": 294,
     "in_humidity": 62,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 43,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 1996,
     "height": 165,
@@ -701,11 +701,11 @@
     "home_location": "tokyo",
     "in_temperature": 278,
     "in_humidity": 65,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 44,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 0,
     "year_of_birth": 2001,
     "height": 124,
@@ -717,11 +717,11 @@
     "home_location": "kairo",
     "in_temperature": 212,
     "in_humidity": 64,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 45,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 2002,
     "height": 174,
@@ -737,7 +737,7 @@
   },
   {
     "id": 46,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 0,
     "year_of_birth": 2003,
     "height": 146,
@@ -753,7 +753,7 @@
   },
   {
     "id": 47,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 0,
     "year_of_birth": 1992,
     "height": 138,
@@ -765,11 +765,11 @@
     "home_location": "moscow",
     "in_temperature": 294,
     "in_humidity": 49,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 48,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 1995,
     "height": 151,
@@ -781,11 +781,11 @@
     "home_location": "kairo",
     "in_temperature": 226,
     "in_humidity": 49,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 49,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 2003,
     "height": 121,
@@ -797,11 +797,11 @@
     "home_location": "miercurea ciuc",
     "in_temperature": 274,
     "in_humidity": 69,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 50,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 1992,
     "height": 164,
@@ -813,11 +813,11 @@
     "home_location": "london",
     "in_temperature": 162,
     "in_humidity": 50,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 51,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 1991,
     "height": 171,
@@ -829,11 +829,11 @@
     "home_location": "kairo",
     "in_temperature": 197,
     "in_humidity": 58,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 52,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 0,
     "year_of_birth": 2003,
     "height": 128,
@@ -845,11 +845,11 @@
     "home_location": "kairo",
     "in_temperature": 270,
     "in_humidity": 32,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 53,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 1999,
     "height": 174,
@@ -861,11 +861,11 @@
     "home_location": "tokyo",
     "in_temperature": 324,
     "in_humidity": 63,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 54,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 2002,
     "height": 188,
@@ -877,11 +877,11 @@
     "home_location": "kairo",
     "in_temperature": 172,
     "in_humidity": 41,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 55,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 2003,
     "height": 144,
@@ -893,11 +893,11 @@
     "home_location": "tokyo",
     "in_temperature": 235,
     "in_humidity": 66,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 56,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 0,
     "year_of_birth": 2001,
     "height": 161,
@@ -909,11 +909,11 @@
     "home_location": "miercurea ciuc",
     "in_temperature": 328,
     "in_humidity": 32,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 57,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 1997,
     "height": 171,
@@ -925,11 +925,11 @@
     "home_location": "tokyo",
     "in_temperature": 280,
     "in_humidity": 52,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 58,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 0,
     "year_of_birth": 1990,
     "height": 134,
@@ -941,11 +941,11 @@
     "home_location": "bucharest",
     "in_temperature": 283,
     "in_humidity": 62,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 59,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 1996,
     "height": 120,
@@ -957,11 +957,11 @@
     "home_location": "tokyo",
     "in_temperature": 326,
     "in_humidity": 53,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 60,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 2004,
     "height": 130,
@@ -973,11 +973,11 @@
     "home_location": "tokyo",
     "in_temperature": 306,
     "in_humidity": 43,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 61,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 0,
     "year_of_birth": 1992,
     "height": 129,
@@ -989,11 +989,11 @@
     "home_location": "moscow",
     "in_temperature": 247,
     "in_humidity": 34,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 62,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 0,
     "year_of_birth": 2000,
     "height": 131,
@@ -1005,11 +1005,11 @@
     "home_location": "miercurea ciuc",
     "in_temperature": 215,
     "in_humidity": 52,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 63,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 1997,
     "height": 131,
@@ -1021,11 +1021,11 @@
     "home_location": "bucharest",
     "in_temperature": 232,
     "in_humidity": 52,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 64,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 0,
     "year_of_birth": 2003,
     "height": 179,
@@ -1037,11 +1037,11 @@
     "home_location": "moscow",
     "in_temperature": 325,
     "in_humidity": 61,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 65,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 0,
     "year_of_birth": 1997,
     "height": 156,
@@ -1053,11 +1053,11 @@
     "home_location": "tokyo",
     "in_temperature": 299,
     "in_humidity": 39,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 66,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 1997,
     "height": 172,
@@ -1069,11 +1069,11 @@
     "home_location": "budapest",
     "in_temperature": 212,
     "in_humidity": 53,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 67,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 2000,
     "height": 174,
@@ -1085,11 +1085,11 @@
     "home_location": "tokyo",
     "in_temperature": 298,
     "in_humidity": 38,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 68,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 0,
     "year_of_birth": 1996,
     "height": 173,
@@ -1101,11 +1101,11 @@
     "home_location": "bucharest",
     "in_temperature": 221,
     "in_humidity": 48,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 69,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 1991,
     "height": 149,
@@ -1117,11 +1117,11 @@
     "home_location": "london",
     "in_temperature": 328,
     "in_humidity": 35,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 70,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 2002,
     "height": 170,
@@ -1133,11 +1133,11 @@
     "home_location": "bucharest",
     "in_temperature": 189,
     "in_humidity": 41,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 71,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 1991,
     "height": 184,
@@ -1149,11 +1149,11 @@
     "home_location": "tokyo",
     "in_temperature": 301,
     "in_humidity": 69,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 72,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 1996,
     "height": 154,
@@ -1165,11 +1165,11 @@
     "home_location": "london",
     "in_temperature": 185,
     "in_humidity": 60,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 73,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 1995,
     "height": 160,
@@ -1181,11 +1181,11 @@
     "home_location": "bucharest",
     "in_temperature": 310,
     "in_humidity": 52,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 74,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 1993,
     "height": 147,
@@ -1197,11 +1197,11 @@
     "home_location": "kairo",
     "in_temperature": 249,
     "in_humidity": 46,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 75,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 0,
     "year_of_birth": 2004,
     "height": 179,
@@ -1213,11 +1213,11 @@
     "home_location": "tokyo",
     "in_temperature": 166,
     "in_humidity": 59,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 76,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 0,
     "year_of_birth": 2004,
     "height": 162,
@@ -1229,11 +1229,11 @@
     "home_location": "london",
     "in_temperature": 250,
     "in_humidity": 49,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 77,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 0,
     "year_of_birth": 1991,
     "height": 137,
@@ -1245,11 +1245,11 @@
     "home_location": "kairo",
     "in_temperature": 300,
     "in_humidity": 35,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 78,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 1990,
     "height": 164,
@@ -1261,11 +1261,11 @@
     "home_location": "miercurea ciuc",
     "in_temperature": 168,
     "in_humidity": 64,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 79,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 1993,
     "height": 152,
@@ -1277,11 +1277,11 @@
     "home_location": "budapest",
     "in_temperature": 311,
     "in_humidity": 66,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 80,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 0,
     "year_of_birth": 1986,
     "height": 193,
@@ -1293,11 +1293,11 @@
     "home_location": "budapest",
     "in_temperature": 307,
     "in_humidity": 66,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 81,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 1967,
     "height": 182,
@@ -1309,11 +1309,11 @@
     "home_location": "miercurea ciuc",
     "in_temperature": 303,
     "in_humidity": 41,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 82,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 0,
     "year_of_birth": 1977,
     "height": 196,
@@ -1325,11 +1325,11 @@
     "home_location": "moscow",
     "in_temperature": 258,
     "in_humidity": 58,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 83,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 0,
     "year_of_birth": 1971,
     "height": 195,
@@ -1341,11 +1341,11 @@
     "home_location": "tokyo",
     "in_temperature": 227,
     "in_humidity": 58,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 84,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 1981,
     "height": 170,
@@ -1357,11 +1357,11 @@
     "home_location": "tokyo",
     "in_temperature": 218,
     "in_humidity": 41,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 85,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 0,
     "year_of_birth": 1977,
     "height": 166,
@@ -1373,11 +1373,11 @@
     "home_location": "budapest",
     "in_temperature": 168,
     "in_humidity": 37,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 86,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 1988,
     "height": 190,
@@ -1389,11 +1389,11 @@
     "home_location": "budapest",
     "in_temperature": 302,
     "in_humidity": 56,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 87,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 1993,
     "height": 175,
@@ -1405,11 +1405,11 @@
     "home_location": "tokyo",
     "in_temperature": 234,
     "in_humidity": 52,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 88,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 0,
     "year_of_birth": 1982,
     "height": 186,
@@ -1421,11 +1421,11 @@
     "home_location": "kairo",
     "in_temperature": 247,
     "in_humidity": 37,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 89,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 0,
     "year_of_birth": 1969,
     "height": 155,
@@ -1437,11 +1437,11 @@
     "home_location": "budapest",
     "in_temperature": 224,
     "in_humidity": 38,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 90,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 1994,
     "height": 163,
@@ -1453,11 +1453,11 @@
     "home_location": "moscow",
     "in_temperature": 312,
     "in_humidity": 61,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 91,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 0,
     "year_of_birth": 1971,
     "height": 177,
@@ -1469,11 +1469,11 @@
     "home_location": "moscow",
     "in_temperature": 318,
     "in_humidity": 58,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 92,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 0,
     "year_of_birth": 1991,
     "height": 153,
@@ -1485,11 +1485,11 @@
     "home_location": "budapest",
     "in_temperature": 298,
     "in_humidity": 44,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 93,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 1981,
     "height": 182,
@@ -1501,11 +1501,11 @@
     "home_location": "london",
     "in_temperature": 324,
     "in_humidity": 62,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 94,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 1979,
     "height": 175,
@@ -1517,11 +1517,11 @@
     "home_location": "bucharest",
     "in_temperature": 202,
     "in_humidity": 46,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 95,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 0,
     "year_of_birth": 1965,
     "height": 174,
@@ -1533,11 +1533,11 @@
     "home_location": "moscow",
     "in_temperature": 212,
     "in_humidity": 43,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 96,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 1979,
     "height": 190,
@@ -1549,11 +1549,11 @@
     "home_location": "kairo",
     "in_temperature": 267,
     "in_humidity": 39,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 97,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 1965,
     "height": 175,
@@ -1565,11 +1565,11 @@
     "home_location": "london",
     "in_temperature": 178,
     "in_humidity": 40,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 98,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 1975,
     "height": 175,
@@ -1581,11 +1581,11 @@
     "home_location": "tokyo",
     "in_temperature": 287,
     "in_humidity": 30,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 99,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 0,
     "year_of_birth": 1981,
     "height": 176,
@@ -1597,11 +1597,11 @@
     "home_location": "moscow",
     "in_temperature": 316,
     "in_humidity": 44,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 100,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 1966,
     "height": 176,
@@ -1613,11 +1613,11 @@
     "home_location": "bucharest",
     "in_temperature": 279,
     "in_humidity": 46,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 101,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 0,
     "year_of_birth": 1978,
     "height": 199,
@@ -1629,11 +1629,11 @@
     "home_location": "kairo",
     "in_temperature": 174,
     "in_humidity": 30,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 102,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 1984,
     "height": 158,
@@ -1645,11 +1645,11 @@
     "home_location": "tokyo",
     "in_temperature": 218,
     "in_humidity": 36,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 103,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 0,
     "year_of_birth": 1994,
     "height": 175,
@@ -1661,11 +1661,11 @@
     "home_location": "bucharest",
     "in_temperature": 300,
     "in_humidity": 57,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 104,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 0,
     "year_of_birth": 1979,
     "height": 177,
@@ -1677,11 +1677,11 @@
     "home_location": "miercurea ciuc",
     "in_temperature": 318,
     "in_humidity": 46,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 105,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 1988,
     "height": 182,
@@ -1693,11 +1693,11 @@
     "home_location": "kairo",
     "in_temperature": 313,
     "in_humidity": 50,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 106,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 1987,
     "height": 150,
@@ -1709,11 +1709,11 @@
     "home_location": "miercurea ciuc",
     "in_temperature": 204,
     "in_humidity": 67,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 107,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 0,
     "year_of_birth": 1993,
     "height": 163,
@@ -1725,11 +1725,11 @@
     "home_location": "budapest",
     "in_temperature": 313,
     "in_humidity": 66,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 108,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 0,
     "year_of_birth": 1984,
     "height": 164,
@@ -1741,11 +1741,11 @@
     "home_location": "tokyo",
     "in_temperature": 179,
     "in_humidity": 31,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 109,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 0,
     "year_of_birth": 1984,
     "height": 192,
@@ -1757,11 +1757,11 @@
     "home_location": "bucharest",
     "in_temperature": 208,
     "in_humidity": 36,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 110,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 1984,
     "height": 178,
@@ -1773,11 +1773,11 @@
     "home_location": "london",
     "in_temperature": 215,
     "in_humidity": 44,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 111,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 0,
     "year_of_birth": 1968,
     "height": 158,
@@ -1789,11 +1789,11 @@
     "home_location": "tokyo",
     "in_temperature": 224,
     "in_humidity": 38,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 112,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 1970,
     "height": 191,
@@ -1805,11 +1805,11 @@
     "home_location": "miercurea ciuc",
     "in_temperature": 313,
     "in_humidity": 40,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 113,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 0,
     "year_of_birth": 1967,
     "height": 187,
@@ -1821,11 +1821,11 @@
     "home_location": "london",
     "in_temperature": 266,
     "in_humidity": 47,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 114,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 0,
     "year_of_birth": 1976,
     "height": 165,
@@ -1837,11 +1837,11 @@
     "home_location": "london",
     "in_temperature": 278,
     "in_humidity": 43,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 115,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 1977,
     "height": 199,
@@ -1853,11 +1853,11 @@
     "home_location": "budapest",
     "in_temperature": 202,
     "in_humidity": 42,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 116,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 1983,
     "height": 161,
@@ -1869,11 +1869,11 @@
     "home_location": "kairo",
     "in_temperature": 296,
     "in_humidity": 38,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 117,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 1970,
     "height": 168,
@@ -1885,11 +1885,11 @@
     "home_location": "kairo",
     "in_temperature": 303,
     "in_humidity": 63,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 118,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 1994,
     "height": 184,
@@ -1901,11 +1901,11 @@
     "home_location": "budapest",
     "in_temperature": 293,
     "in_humidity": 68,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 119,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 1977,
     "height": 152,
@@ -1917,11 +1917,11 @@
     "home_location": "kairo",
     "in_temperature": 168,
     "in_humidity": 60,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 120,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 1973,
     "height": 173,
@@ -1933,11 +1933,11 @@
     "home_location": "london",
     "in_temperature": 213,
     "in_humidity": 58,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 121,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 0,
     "year_of_birth": 1972,
     "height": 160,
@@ -1949,11 +1949,11 @@
     "home_location": "tokyo",
     "in_temperature": 217,
     "in_humidity": 30,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 122,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 0,
     "year_of_birth": 1966,
     "height": 198,
@@ -1965,11 +1965,11 @@
     "home_location": "moscow",
     "in_temperature": 243,
     "in_humidity": 55,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 123,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 1994,
     "height": 166,
@@ -1981,11 +1981,11 @@
     "home_location": "london",
     "in_temperature": 207,
     "in_humidity": 55,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 124,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 1981,
     "height": 180,
@@ -1997,11 +1997,11 @@
     "home_location": "london",
     "in_temperature": 222,
     "in_humidity": 47,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 125,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 1982,
     "height": 185,
@@ -2013,11 +2013,11 @@
     "home_location": "bucharest",
     "in_temperature": 276,
     "in_humidity": 42,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 126,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 0,
     "year_of_birth": 1978,
     "height": 162,
@@ -2029,11 +2029,11 @@
     "home_location": "budapest",
     "in_temperature": 263,
     "in_humidity": 50,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 127,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 1983,
     "height": 189,
@@ -2045,11 +2045,11 @@
     "home_location": "moscow",
     "in_temperature": 223,
     "in_humidity": 56,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 128,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 1973,
     "height": 183,
@@ -2061,11 +2061,11 @@
     "home_location": "moscow",
     "in_temperature": 189,
     "in_humidity": 63,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 129,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 1970,
     "height": 154,
@@ -2077,11 +2077,11 @@
     "home_location": "bucharest",
     "in_temperature": 280,
     "in_humidity": 43,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 130,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 0,
     "year_of_birth": 1968,
     "height": 196,
@@ -2093,11 +2093,11 @@
     "home_location": "bucharest",
     "in_temperature": 303,
     "in_humidity": 36,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 131,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 0,
     "year_of_birth": 1966,
     "height": 164,
@@ -2109,11 +2109,11 @@
     "home_location": "miercurea ciuc",
     "in_temperature": 236,
     "in_humidity": 30,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 132,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 0,
     "year_of_birth": 1993,
     "height": 183,
@@ -2125,11 +2125,11 @@
     "home_location": "miercurea ciuc",
     "in_temperature": 302,
     "in_humidity": 66,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 133,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 0,
     "year_of_birth": 1976,
     "height": 187,
@@ -2141,11 +2141,11 @@
     "home_location": "kairo",
     "in_temperature": 207,
     "in_humidity": 66,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 134,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 0,
     "year_of_birth": 1980,
     "height": 163,
@@ -2157,11 +2157,11 @@
     "home_location": "bucharest",
     "in_temperature": 225,
     "in_humidity": 66,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 135,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 1978,
     "height": 161,
@@ -2173,11 +2173,11 @@
     "home_location": "bucharest",
     "in_temperature": 253,
     "in_humidity": 41,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 136,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 0,
     "year_of_birth": 1989,
     "height": 190,
@@ -2189,11 +2189,11 @@
     "home_location": "bucharest",
     "in_temperature": 223,
     "in_humidity": 51,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 137,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 0,
     "year_of_birth": 1976,
     "height": 180,
@@ -2205,11 +2205,11 @@
     "home_location": "london",
     "in_temperature": 254,
     "in_humidity": 60,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 138,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 1988,
     "height": 193,
@@ -2221,11 +2221,11 @@
     "home_location": "budapest",
     "in_temperature": 264,
     "in_humidity": 51,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 139,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 1972,
     "height": 192,
@@ -2237,11 +2237,11 @@
     "home_location": "kairo",
     "in_temperature": 199,
     "in_humidity": 69,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 140,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 1973,
     "height": 159,
@@ -2253,11 +2253,11 @@
     "home_location": "bucharest",
     "in_temperature": 185,
     "in_humidity": 61,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 141,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 1966,
     "height": 165,
@@ -2269,11 +2269,11 @@
     "home_location": "tokyo",
     "in_temperature": 165,
     "in_humidity": 50,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 142,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 1990,
     "height": 171,
@@ -2285,11 +2285,11 @@
     "home_location": "london",
     "in_temperature": 284,
     "in_humidity": 56,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 143,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 1978,
     "height": 174,
@@ -2301,11 +2301,11 @@
     "home_location": "moscow",
     "in_temperature": 184,
     "in_humidity": 68,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 144,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 1981,
     "height": 192,
@@ -2317,11 +2317,11 @@
     "home_location": "bucharest",
     "in_temperature": 172,
     "in_humidity": 47,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 145,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 0,
     "year_of_birth": 1990,
     "height": 181,
@@ -2333,11 +2333,11 @@
     "home_location": "moscow",
     "in_temperature": 200,
     "in_humidity": 39,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 146,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 1968,
     "height": 159,
@@ -2349,11 +2349,11 @@
     "home_location": "kairo",
     "in_temperature": 234,
     "in_humidity": 69,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 147,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 1979,
     "height": 161,
@@ -2365,11 +2365,11 @@
     "home_location": "budapest",
     "in_temperature": 298,
     "in_humidity": 30,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 148,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 1987,
     "height": 169,
@@ -2381,11 +2381,11 @@
     "home_location": "kairo",
     "in_temperature": 268,
     "in_humidity": 69,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 149,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 0,
     "year_of_birth": 1973,
     "height": 171,
@@ -2397,11 +2397,11 @@
     "home_location": "budapest",
     "in_temperature": 167,
     "in_humidity": 53,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 150,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 1983,
     "height": 167,
@@ -2413,11 +2413,11 @@
     "home_location": "tokyo",
     "in_temperature": 202,
     "in_humidity": 52,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 151,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 0,
     "year_of_birth": 1988,
     "height": 150,
@@ -2429,11 +2429,11 @@
     "home_location": "budapest",
     "in_temperature": 226,
     "in_humidity": 54,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 152,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 1974,
     "height": 186,
@@ -2445,11 +2445,11 @@
     "home_location": "budapest",
     "in_temperature": 217,
     "in_humidity": 51,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 153,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 1981,
     "height": 195,
@@ -2461,11 +2461,11 @@
     "home_location": "moscow",
     "in_temperature": 258,
     "in_humidity": 44,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 154,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 1986,
     "height": 160,
@@ -2477,11 +2477,11 @@
     "home_location": "budapest",
     "in_temperature": 252,
     "in_humidity": 47,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 155,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 0,
     "year_of_birth": 1973,
     "height": 156,
@@ -2493,11 +2493,11 @@
     "home_location": "bucharest",
     "in_temperature": 250,
     "in_humidity": 41,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 156,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 1983,
     "height": 186,
@@ -2509,11 +2509,11 @@
     "home_location": "moscow",
     "in_temperature": 315,
     "in_humidity": 46,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 157,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 1965,
     "height": 192,
@@ -2525,11 +2525,11 @@
     "home_location": "moscow",
     "in_temperature": 307,
     "in_humidity": 59,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 158,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 1990,
     "height": 179,
@@ -2541,11 +2541,11 @@
     "home_location": "kairo",
     "in_temperature": 308,
     "in_humidity": 40,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 159,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 1982,
     "height": 175,
@@ -2557,11 +2557,11 @@
     "home_location": "bucharest",
     "in_temperature": 178,
     "in_humidity": 30,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 160,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 0,
     "year_of_birth": 1966,
     "height": 170,
@@ -2573,11 +2573,11 @@
     "home_location": "tokyo",
     "in_temperature": 174,
     "in_humidity": 46,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 161,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 1976,
     "height": 184,
@@ -2589,11 +2589,11 @@
     "home_location": "bucharest",
     "in_temperature": 278,
     "in_humidity": 51,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 162,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 1988,
     "height": 171,
@@ -2605,11 +2605,11 @@
     "home_location": "moscow",
     "in_temperature": 280,
     "in_humidity": 55,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 163,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 1975,
     "height": 162,
@@ -2621,11 +2621,11 @@
     "home_location": "tokyo",
     "in_temperature": 307,
     "in_humidity": 32,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 164,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 1968,
     "height": 178,
@@ -2637,11 +2637,11 @@
     "home_location": "moscow",
     "in_temperature": 243,
     "in_humidity": 48,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 165,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 1984,
     "height": 196,
@@ -2653,11 +2653,11 @@
     "home_location": "moscow",
     "in_temperature": 217,
     "in_humidity": 32,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 166,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 1987,
     "height": 183,
@@ -2669,11 +2669,11 @@
     "home_location": "tokyo",
     "in_temperature": 320,
     "in_humidity": 38,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 167,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 1976,
     "height": 180,
@@ -2685,11 +2685,11 @@
     "home_location": "moscow",
     "in_temperature": 183,
     "in_humidity": 65,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 168,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 1990,
     "height": 154,
@@ -2701,11 +2701,11 @@
     "home_location": "london",
     "in_temperature": 230,
     "in_humidity": 42,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 169,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 0,
     "year_of_birth": 1974,
     "height": 179,
@@ -2717,11 +2717,11 @@
     "home_location": "london",
     "in_temperature": 187,
     "in_humidity": 63,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 170,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 0,
     "year_of_birth": 1988,
     "height": 183,
@@ -2733,11 +2733,11 @@
     "home_location": "moscow",
     "in_temperature": 197,
     "in_humidity": 48,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 171,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 1967,
     "height": 154,
@@ -2749,11 +2749,11 @@
     "home_location": "budapest",
     "in_temperature": 308,
     "in_humidity": 60,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 172,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 0,
     "year_of_birth": 1993,
     "height": 151,
@@ -2765,11 +2765,11 @@
     "home_location": "tokyo",
     "in_temperature": 219,
     "in_humidity": 44,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 173,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 1967,
     "height": 163,
@@ -2781,11 +2781,11 @@
     "home_location": "kairo",
     "in_temperature": 238,
     "in_humidity": 62,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 174,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 1973,
     "height": 186,
@@ -2797,11 +2797,11 @@
     "home_location": "moscow",
     "in_temperature": 316,
     "in_humidity": 65,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 175,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 1975,
     "height": 186,
@@ -2813,11 +2813,11 @@
     "home_location": "budapest",
     "in_temperature": 225,
     "in_humidity": 30,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 176,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 0,
     "year_of_birth": 1984,
     "height": 194,
@@ -2829,11 +2829,11 @@
     "home_location": "budapest",
     "in_temperature": 295,
     "in_humidity": 41,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 177,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 0,
     "year_of_birth": 1968,
     "height": 170,
@@ -2845,11 +2845,11 @@
     "home_location": "miercurea ciuc",
     "in_temperature": 274,
     "in_humidity": 67,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 178,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 1973,
     "height": 194,
@@ -2861,11 +2861,11 @@
     "home_location": "moscow",
     "in_temperature": 165,
     "in_humidity": 52,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 179,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 1987,
     "height": 173,
@@ -2877,11 +2877,11 @@
     "home_location": "bucharest",
     "in_temperature": 264,
     "in_humidity": 48,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 180,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 0,
     "year_of_birth": 1972,
     "height": 186,
@@ -2893,11 +2893,11 @@
     "home_location": "tokyo",
     "in_temperature": 308,
     "in_humidity": 49,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 181,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 0,
     "year_of_birth": 1983,
     "height": 168,
@@ -2909,11 +2909,11 @@
     "home_location": "bucharest",
     "in_temperature": 283,
     "in_humidity": 62,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 182,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 0,
     "year_of_birth": 1967,
     "height": 165,
@@ -2925,11 +2925,11 @@
     "home_location": "moscow",
     "in_temperature": 239,
     "in_humidity": 64,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 183,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 1977,
     "height": 162,
@@ -2941,11 +2941,11 @@
     "home_location": "miercurea ciuc",
     "in_temperature": 227,
     "in_humidity": 38,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 184,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 1974,
     "height": 163,
@@ -2957,11 +2957,11 @@
     "home_location": "london",
     "in_temperature": 310,
     "in_humidity": 32,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 185,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 0,
     "year_of_birth": 1991,
     "height": 193,
@@ -2973,11 +2973,11 @@
     "home_location": "bucharest",
     "in_temperature": 269,
     "in_humidity": 68,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 186,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 1972,
     "height": 199,
@@ -2989,11 +2989,11 @@
     "home_location": "miercurea ciuc",
     "in_temperature": 192,
     "in_humidity": 46,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 187,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 0,
     "year_of_birth": 1971,
     "height": 159,
@@ -3005,11 +3005,11 @@
     "home_location": "budapest",
     "in_temperature": 172,
     "in_humidity": 56,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 188,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 1973,
     "height": 173,
@@ -3021,11 +3021,11 @@
     "home_location": "miercurea ciuc",
     "in_temperature": 169,
     "in_humidity": 35,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 189,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 1981,
     "height": 158,
@@ -3037,11 +3037,11 @@
     "home_location": "bucharest",
     "in_temperature": 277,
     "in_humidity": 52,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 190,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 0,
     "year_of_birth": 1983,
     "height": 172,
@@ -3053,11 +3053,11 @@
     "home_location": "kairo",
     "in_temperature": 327,
     "in_humidity": 57,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 191,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 1966,
     "height": 164,
@@ -3069,11 +3069,11 @@
     "home_location": "kairo",
     "in_temperature": 284,
     "in_humidity": 50,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 192,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 0,
     "year_of_birth": 1972,
     "height": 169,
@@ -3085,11 +3085,11 @@
     "home_location": "bucharest",
     "in_temperature": 245,
     "in_humidity": 58,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 193,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 1986,
     "height": 177,
@@ -3101,11 +3101,11 @@
     "home_location": "kairo",
     "in_temperature": 163,
     "in_humidity": 59,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 194,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 0,
     "year_of_birth": 1986,
     "height": 154,
@@ -3117,11 +3117,11 @@
     "home_location": "bucharest",
     "in_temperature": 326,
     "in_humidity": 36,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 195,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 0,
     "year_of_birth": 1980,
     "height": 192,
@@ -3133,11 +3133,11 @@
     "home_location": "bucharest",
     "in_temperature": 250,
     "in_humidity": 68,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 196,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 0,
     "year_of_birth": 1976,
     "height": 155,
@@ -3149,11 +3149,11 @@
     "home_location": "budapest",
     "in_temperature": 295,
     "in_humidity": 50,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 197,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 0,
     "year_of_birth": 1989,
     "height": 163,
@@ -3165,11 +3165,11 @@
     "home_location": "budapest",
     "in_temperature": 240,
     "in_humidity": 65,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 198,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 1985,
     "height": 184,
@@ -3181,11 +3181,11 @@
     "home_location": "kairo",
     "in_temperature": 284,
     "in_humidity": 48,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 199,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 1993,
     "height": 156,
@@ -3197,11 +3197,11 @@
     "home_location": "miercurea ciuc",
     "in_temperature": 196,
     "in_humidity": 69,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 200,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 0,
     "year_of_birth": 1983,
     "height": 184,
@@ -3213,11 +3213,11 @@
     "home_location": "bucharest",
     "in_temperature": 287,
     "in_humidity": 59,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 201,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 0,
     "year_of_birth": 1969,
     "height": 186,
@@ -3229,11 +3229,11 @@
     "home_location": "bucharest",
     "in_temperature": 293,
     "in_humidity": 43,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 202,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 0,
     "year_of_birth": 1974,
     "height": 189,
@@ -3245,11 +3245,11 @@
     "home_location": "moscow",
     "in_temperature": 256,
     "in_humidity": 35,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 203,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 0,
     "year_of_birth": 1966,
     "height": 193,
@@ -3261,11 +3261,11 @@
     "home_location": "miercurea ciuc",
     "in_temperature": 259,
     "in_humidity": 48,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 204,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 1992,
     "height": 160,
@@ -3277,11 +3277,11 @@
     "home_location": "london",
     "in_temperature": 276,
     "in_humidity": 64,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 205,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 0,
     "year_of_birth": 1994,
     "height": 170,
@@ -3293,11 +3293,11 @@
     "home_location": "kairo",
     "in_temperature": 220,
     "in_humidity": 46,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 206,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 1986,
     "height": 153,
@@ -3309,11 +3309,11 @@
     "home_location": "moscow",
     "in_temperature": 268,
     "in_humidity": 61,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 207,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 0,
     "year_of_birth": 1984,
     "height": 187,
@@ -3325,11 +3325,11 @@
     "home_location": "bucharest",
     "in_temperature": 281,
     "in_humidity": 30,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 208,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 0,
     "year_of_birth": 1971,
     "height": 188,
@@ -3341,11 +3341,11 @@
     "home_location": "bucharest",
     "in_temperature": 239,
     "in_humidity": 55,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 209,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 1967,
     "height": 182,
@@ -3357,11 +3357,11 @@
     "home_location": "miercurea ciuc",
     "in_temperature": 257,
     "in_humidity": 33,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 210,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 1975,
     "height": 183,
@@ -3373,11 +3373,11 @@
     "home_location": "london",
     "in_temperature": 200,
     "in_humidity": 37,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 211,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 0,
     "year_of_birth": 1981,
     "height": 168,
@@ -3389,11 +3389,11 @@
     "home_location": "bucharest",
     "in_temperature": 300,
     "in_humidity": 36,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 212,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 0,
     "year_of_birth": 1966,
     "height": 174,
@@ -3405,11 +3405,11 @@
     "home_location": "london",
     "in_temperature": 191,
     "in_humidity": 48,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 213,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 1973,
     "height": 189,
@@ -3421,11 +3421,11 @@
     "home_location": "miercurea ciuc",
     "in_temperature": 263,
     "in_humidity": 49,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 214,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 1975,
     "height": 150,
@@ -3437,11 +3437,11 @@
     "home_location": "budapest",
     "in_temperature": 209,
     "in_humidity": 68,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 215,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 0,
     "year_of_birth": 1993,
     "height": 177,
@@ -3453,11 +3453,11 @@
     "home_location": "london",
     "in_temperature": 280,
     "in_humidity": 52,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 216,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 0,
     "year_of_birth": 1974,
     "height": 158,
@@ -3469,11 +3469,11 @@
     "home_location": "kairo",
     "in_temperature": 281,
     "in_humidity": 41,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 217,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 0,
     "year_of_birth": 1969,
     "height": 159,
@@ -3485,11 +3485,11 @@
     "home_location": "budapest",
     "in_temperature": 235,
     "in_humidity": 57,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 218,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 1989,
     "height": 155,
@@ -3501,11 +3501,11 @@
     "home_location": "london",
     "in_temperature": 222,
     "in_humidity": 52,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 219,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 0,
     "year_of_birth": 1976,
     "height": 162,
@@ -3517,11 +3517,11 @@
     "home_location": "london",
     "in_temperature": 198,
     "in_humidity": 58,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 220,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 1973,
     "height": 191,
@@ -3533,11 +3533,11 @@
     "home_location": "kairo",
     "in_temperature": 324,
     "in_humidity": 53,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 221,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 0,
     "year_of_birth": 1969,
     "height": 167,
@@ -3549,11 +3549,11 @@
     "home_location": "bucharest",
     "in_temperature": 213,
     "in_humidity": 39,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 222,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 0,
     "year_of_birth": 1984,
     "height": 170,
@@ -3565,11 +3565,11 @@
     "home_location": "tokyo",
     "in_temperature": 176,
     "in_humidity": 34,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 223,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 1971,
     "height": 166,
@@ -3581,11 +3581,11 @@
     "home_location": "bucharest",
     "in_temperature": 168,
     "in_humidity": 44,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 224,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 0,
     "year_of_birth": 1967,
     "height": 176,
@@ -3597,11 +3597,11 @@
     "home_location": "london",
     "in_temperature": 285,
     "in_humidity": 39,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 225,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 0,
     "year_of_birth": 1976,
     "height": 190,
@@ -3613,11 +3613,11 @@
     "home_location": "miercurea ciuc",
     "in_temperature": 286,
     "in_humidity": 30,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 226,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 1986,
     "height": 165,
@@ -3629,11 +3629,11 @@
     "home_location": "tokyo",
     "in_temperature": 318,
     "in_humidity": 58,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 227,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 1983,
     "height": 164,
@@ -3645,11 +3645,11 @@
     "home_location": "london",
     "in_temperature": 170,
     "in_humidity": 53,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 228,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 0,
     "year_of_birth": 1983,
     "height": 187,
@@ -3661,11 +3661,11 @@
     "home_location": "moscow",
     "in_temperature": 204,
     "in_humidity": 33,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 229,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 0,
     "year_of_birth": 1966,
     "height": 156,
@@ -3677,11 +3677,11 @@
     "home_location": "tokyo",
     "in_temperature": 249,
     "in_humidity": 62,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 230,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 0,
     "year_of_birth": 1977,
     "height": 164,
@@ -3693,11 +3693,11 @@
     "home_location": "bucharest",
     "in_temperature": 183,
     "in_humidity": 67,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 231,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 1983,
     "height": 182,
@@ -3709,11 +3709,11 @@
     "home_location": "tokyo",
     "in_temperature": 319,
     "in_humidity": 69,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 232,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 1983,
     "height": 175,
@@ -3725,11 +3725,11 @@
     "home_location": "tokyo",
     "in_temperature": 315,
     "in_humidity": 54,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 233,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 0,
     "year_of_birth": 1970,
     "height": 181,
@@ -3741,11 +3741,11 @@
     "home_location": "miercurea ciuc",
     "in_temperature": 251,
     "in_humidity": 38,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 234,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 0,
     "year_of_birth": 1968,
     "height": 167,
@@ -3757,11 +3757,11 @@
     "home_location": "bucharest",
     "in_temperature": 218,
     "in_humidity": 46,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 235,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 1967,
     "height": 175,
@@ -3773,11 +3773,11 @@
     "home_location": "miercurea ciuc",
     "in_temperature": 314,
     "in_humidity": 67,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 236,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 0,
     "year_of_birth": 1974,
     "height": 197,
@@ -3789,11 +3789,11 @@
     "home_location": "tokyo",
     "in_temperature": 274,
     "in_humidity": 49,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 237,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 1994,
     "height": 188,
@@ -3805,11 +3805,11 @@
     "home_location": "miercurea ciuc",
     "in_temperature": 261,
     "in_humidity": 68,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 238,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 0,
     "year_of_birth": 1977,
     "height": 182,
@@ -3821,11 +3821,11 @@
     "home_location": "tokyo",
     "in_temperature": 317,
     "in_humidity": 55,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 239,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 1987,
     "height": 183,
@@ -3837,11 +3837,11 @@
     "home_location": "tokyo",
     "in_temperature": 309,
     "in_humidity": 45,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 240,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 0,
     "year_of_birth": 1978,
     "height": 157,
@@ -3853,11 +3853,11 @@
     "home_location": "miercurea ciuc",
     "in_temperature": 187,
     "in_humidity": 50,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 241,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 0,
     "year_of_birth": 1990,
     "height": 166,
@@ -3869,11 +3869,11 @@
     "home_location": "bucharest",
     "in_temperature": 293,
     "in_humidity": 51,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 242,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 0,
     "year_of_birth": 1988,
     "height": 186,
@@ -3885,11 +3885,11 @@
     "home_location": "tokyo",
     "in_temperature": 218,
     "in_humidity": 39,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 243,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 0,
     "year_of_birth": 1978,
     "height": 190,
@@ -3901,11 +3901,11 @@
     "home_location": "kairo",
     "in_temperature": 184,
     "in_humidity": 58,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 244,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 0,
     "year_of_birth": 1975,
     "height": 192,
@@ -3917,11 +3917,11 @@
     "home_location": "moscow",
     "in_temperature": 328,
     "in_humidity": 57,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 245,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 0,
     "year_of_birth": 1989,
     "height": 192,
@@ -3933,11 +3933,11 @@
     "home_location": "london",
     "in_temperature": 326,
     "in_humidity": 32,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 246,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 1984,
     "height": 174,
@@ -3949,11 +3949,11 @@
     "home_location": "london",
     "in_temperature": 272,
     "in_humidity": 50,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 247,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 1980,
     "height": 178,
@@ -3965,11 +3965,11 @@
     "home_location": "bucharest",
     "in_temperature": 274,
     "in_humidity": 55,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 248,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 0,
     "year_of_birth": 1986,
     "height": 179,
@@ -3981,11 +3981,11 @@
     "home_location": "tokyo",
     "in_temperature": 292,
     "in_humidity": 50,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 249,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 0,
     "year_of_birth": 1988,
     "height": 199,
@@ -3997,11 +3997,11 @@
     "home_location": "moscow",
     "in_temperature": 244,
     "in_humidity": 59,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 250,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 1981,
     "height": 183,
@@ -4013,11 +4013,11 @@
     "home_location": "london",
     "in_temperature": 318,
     "in_humidity": 30,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 251,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 1969,
     "height": 183,
@@ -4029,11 +4029,11 @@
     "home_location": "bucharest",
     "in_temperature": 243,
     "in_humidity": 69,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 252,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 0,
     "year_of_birth": 1992,
     "height": 181,
@@ -4045,11 +4045,11 @@
     "home_location": "kairo",
     "in_temperature": 304,
     "in_humidity": 56,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 253,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 1971,
     "height": 158,
@@ -4061,11 +4061,11 @@
     "home_location": "kairo",
     "in_temperature": 264,
     "in_humidity": 50,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 254,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 0,
     "year_of_birth": 1973,
     "height": 159,
@@ -4077,11 +4077,11 @@
     "home_location": "miercurea ciuc",
     "in_temperature": 170,
     "in_humidity": 56,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 255,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 1989,
     "height": 194,
@@ -4093,11 +4093,11 @@
     "home_location": "miercurea ciuc",
     "in_temperature": 297,
     "in_humidity": 52,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 256,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 0,
     "year_of_birth": 1972,
     "height": 153,
@@ -4109,11 +4109,11 @@
     "home_location": "budapest",
     "in_temperature": 310,
     "in_humidity": 53,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 257,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 0,
     "year_of_birth": 1994,
     "height": 160,
@@ -4125,11 +4125,11 @@
     "home_location": "kairo",
     "in_temperature": 258,
     "in_humidity": 31,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 258,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 1975,
     "height": 156,
@@ -4141,11 +4141,11 @@
     "home_location": "tokyo",
     "in_temperature": 177,
     "in_humidity": 44,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 259,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 0,
     "year_of_birth": 1976,
     "height": 184,
@@ -4157,11 +4157,11 @@
     "home_location": "kairo",
     "in_temperature": 193,
     "in_humidity": 53,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 260,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 1974,
     "height": 166,
@@ -4173,11 +4173,11 @@
     "home_location": "london",
     "in_temperature": 292,
     "in_humidity": 50,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 261,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 0,
     "year_of_birth": 1991,
     "height": 189,
@@ -4189,11 +4189,11 @@
     "home_location": "bucharest",
     "in_temperature": 254,
     "in_humidity": 66,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 262,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 0,
     "year_of_birth": 1981,
     "height": 186,
@@ -4205,11 +4205,11 @@
     "home_location": "budapest",
     "in_temperature": 253,
     "in_humidity": 69,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 263,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 0,
     "year_of_birth": 1972,
     "height": 157,
@@ -4221,11 +4221,11 @@
     "home_location": "moscow",
     "in_temperature": 176,
     "in_humidity": 43,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 264,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 0,
     "year_of_birth": 1992,
     "height": 174,
@@ -4237,11 +4237,11 @@
     "home_location": "london",
     "in_temperature": 245,
     "in_humidity": 42,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 265,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 1990,
     "height": 166,
@@ -4253,11 +4253,11 @@
     "home_location": "kairo",
     "in_temperature": 204,
     "in_humidity": 48,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 266,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 1965,
     "height": 191,
@@ -4269,11 +4269,11 @@
     "home_location": "bucharest",
     "in_temperature": 186,
     "in_humidity": 56,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 267,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 0,
     "year_of_birth": 1988,
     "height": 174,
@@ -4285,11 +4285,11 @@
     "home_location": "london",
     "in_temperature": 223,
     "in_humidity": 54,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 268,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 0,
     "year_of_birth": 1992,
     "height": 171,
@@ -4301,11 +4301,11 @@
     "home_location": "budapest",
     "in_temperature": 327,
     "in_humidity": 68,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 269,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 1979,
     "height": 186,
@@ -4317,11 +4317,11 @@
     "home_location": "miercurea ciuc",
     "in_temperature": 327,
     "in_humidity": 48,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 270,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 1986,
     "height": 161,
@@ -4333,11 +4333,11 @@
     "home_location": "miercurea ciuc",
     "in_temperature": 224,
     "in_humidity": 42,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 271,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 0,
     "year_of_birth": 1976,
     "height": 152,
@@ -4349,11 +4349,11 @@
     "home_location": "kairo",
     "in_temperature": 308,
     "in_humidity": 60,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 272,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 1982,
     "height": 150,
@@ -4365,11 +4365,11 @@
     "home_location": "kairo",
     "in_temperature": 286,
     "in_humidity": 37,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 273,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 0,
     "year_of_birth": 1988,
     "height": 162,
@@ -4381,11 +4381,11 @@
     "home_location": "kairo",
     "in_temperature": 223,
     "in_humidity": 52,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 274,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 1988,
     "height": 151,
@@ -4397,11 +4397,11 @@
     "home_location": "tokyo",
     "in_temperature": 269,
     "in_humidity": 36,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 275,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 1991,
     "height": 161,
@@ -4413,11 +4413,11 @@
     "home_location": "kairo",
     "in_temperature": 254,
     "in_humidity": 58,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 276,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 1974,
     "height": 186,
@@ -4429,11 +4429,11 @@
     "home_location": "moscow",
     "in_temperature": 258,
     "in_humidity": 48,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 277,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 0,
     "year_of_birth": 1993,
     "height": 181,
@@ -4445,11 +4445,11 @@
     "home_location": "miercurea ciuc",
     "in_temperature": 204,
     "in_humidity": 40,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 278,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 1978,
     "height": 190,
@@ -4461,11 +4461,11 @@
     "home_location": "london",
     "in_temperature": 216,
     "in_humidity": 54,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 279,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 0,
     "year_of_birth": 1993,
     "height": 160,
@@ -4477,11 +4477,11 @@
     "home_location": "budapest",
     "in_temperature": 238,
     "in_humidity": 57,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 280,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 0,
     "year_of_birth": 1972,
     "height": 184,
@@ -4493,11 +4493,11 @@
     "home_location": "bucharest",
     "in_temperature": 288,
     "in_humidity": 47,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 281,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 0,
     "year_of_birth": 1970,
     "height": 174,
@@ -4509,11 +4509,11 @@
     "home_location": "bucharest",
     "in_temperature": 160,
     "in_humidity": 44,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 282,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 1992,
     "height": 160,
@@ -4525,11 +4525,11 @@
     "home_location": "moscow",
     "in_temperature": 184,
     "in_humidity": 40,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 283,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 0,
     "year_of_birth": 1988,
     "height": 181,
@@ -4541,11 +4541,11 @@
     "home_location": "kairo",
     "in_temperature": 318,
     "in_humidity": 66,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 284,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 0,
     "year_of_birth": 1993,
     "height": 171,
@@ -4557,11 +4557,11 @@
     "home_location": "london",
     "in_temperature": 169,
     "in_humidity": 30,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 285,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 0,
     "year_of_birth": 1955,
     "height": 197,
@@ -4569,15 +4569,15 @@
     "fitness": 72,
     "pulse": 63,
     "sleep": 56,
-    "noise": NaN,
+    "noise": null,
     "home_location": "miercurea ciuc",
     "in_temperature": 229,
     "in_humidity": 48,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 286,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 0,
     "year_of_birth": 1946,
     "height": 156,
@@ -4585,15 +4585,15 @@
     "fitness": 59,
     "pulse": 82,
     "sleep": 49,
-    "noise": NaN,
+    "noise": null,
     "home_location": "bucharest",
     "in_temperature": 169,
     "in_humidity": 40,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 287,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 1940,
     "height": 171,
@@ -4601,15 +4601,15 @@
     "fitness": 45,
     "pulse": 74,
     "sleep": 55,
-    "noise": NaN,
+    "noise": null,
     "home_location": "moscow",
     "in_temperature": 234,
     "in_humidity": 68,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 288,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 0,
     "year_of_birth": 1948,
     "height": 168,
@@ -4617,15 +4617,15 @@
     "fitness": 36,
     "pulse": 79,
     "sleep": 83,
-    "noise": NaN,
+    "noise": null,
     "home_location": "bucharest",
     "in_temperature": 167,
     "in_humidity": 44,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 289,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 1936,
     "height": 151,
@@ -4633,15 +4633,15 @@
     "fitness": 17,
     "pulse": 83,
     "sleep": 50,
-    "noise": NaN,
+    "noise": null,
     "home_location": "moscow",
     "in_temperature": 246,
     "in_humidity": 32,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 290,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 1960,
     "height": 186,
@@ -4649,15 +4649,15 @@
     "fitness": 5,
     "pulse": 84,
     "sleep": 98,
-    "noise": NaN,
+    "noise": null,
     "home_location": "kairo",
     "in_temperature": 312,
     "in_humidity": 55,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 291,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 0,
     "year_of_birth": 1963,
     "height": 191,
@@ -4665,15 +4665,15 @@
     "fitness": 17,
     "pulse": 82,
     "sleep": 83,
-    "noise": NaN,
+    "noise": null,
     "home_location": "tokyo",
     "in_temperature": 273,
     "in_humidity": 63,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 292,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 1953,
     "height": 156,
@@ -4681,15 +4681,15 @@
     "fitness": 18,
     "pulse": 63,
     "sleep": 90,
-    "noise": NaN,
+    "noise": null,
     "home_location": "budapest",
     "in_temperature": 213,
     "in_humidity": 33,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 293,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 1947,
     "height": 175,
@@ -4697,15 +4697,15 @@
     "fitness": 61,
     "pulse": 68,
     "sleep": 94,
-    "noise": NaN,
+    "noise": null,
     "home_location": "moscow",
     "in_temperature": 218,
     "in_humidity": 34,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 294,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 1968,
     "height": 167,
@@ -4713,15 +4713,15 @@
     "fitness": 5,
     "pulse": 67,
     "sleep": 83,
-    "noise": NaN,
+    "noise": null,
     "home_location": "tokyo",
     "in_temperature": 181,
     "in_humidity": 63,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 295,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 1951,
     "height": 178,
@@ -4729,15 +4729,15 @@
     "fitness": 18,
     "pulse": 71,
     "sleep": 72,
-    "noise": NaN,
+    "noise": null,
     "home_location": "london",
     "in_temperature": 191,
     "in_humidity": 34,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 296,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 0,
     "year_of_birth": 1939,
     "height": 199,
@@ -4745,15 +4745,15 @@
     "fitness": 57,
     "pulse": 75,
     "sleep": 54,
-    "noise": NaN,
+    "noise": null,
     "home_location": "tokyo",
     "in_temperature": 184,
     "in_humidity": 61,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 297,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 0,
     "year_of_birth": 1961,
     "height": 152,
@@ -4761,15 +4761,15 @@
     "fitness": 15,
     "pulse": 81,
     "sleep": 91,
-    "noise": NaN,
+    "noise": null,
     "home_location": "budapest",
     "in_temperature": 218,
     "in_humidity": 44,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 298,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 1930,
     "height": 163,
@@ -4777,15 +4777,15 @@
     "fitness": 34,
     "pulse": 66,
     "sleep": 68,
-    "noise": NaN,
+    "noise": null,
     "home_location": "bucharest",
     "in_temperature": 237,
     "in_humidity": 59,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 299,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 1946,
     "height": 158,
@@ -4793,15 +4793,15 @@
     "fitness": 34,
     "pulse": 62,
     "sleep": 95,
-    "noise": NaN,
+    "noise": null,
     "home_location": "budapest",
     "in_temperature": 316,
     "in_humidity": 52,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 300,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 0,
     "year_of_birth": 1967,
     "height": 163,
@@ -4809,15 +4809,15 @@
     "fitness": 5,
     "pulse": 63,
     "sleep": 64,
-    "noise": NaN,
+    "noise": null,
     "home_location": "london",
     "in_temperature": 187,
     "in_humidity": 45,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 301,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 0,
     "year_of_birth": 1940,
     "height": 168,
@@ -4825,15 +4825,15 @@
     "fitness": 67,
     "pulse": 82,
     "sleep": 97,
-    "noise": NaN,
+    "noise": null,
     "home_location": "kairo",
     "in_temperature": 265,
     "in_humidity": 52,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 302,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 1947,
     "height": 174,
@@ -4841,15 +4841,15 @@
     "fitness": 49,
     "pulse": 66,
     "sleep": 90,
-    "noise": NaN,
+    "noise": null,
     "home_location": "tokyo",
     "in_temperature": 280,
     "in_humidity": 37,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 303,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 1953,
     "height": 184,
@@ -4857,15 +4857,15 @@
     "fitness": 51,
     "pulse": 77,
     "sleep": 80,
-    "noise": NaN,
+    "noise": null,
     "home_location": "kairo",
     "in_temperature": 300,
     "in_humidity": 67,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 304,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 0,
     "year_of_birth": 1965,
     "height": 175,
@@ -4873,15 +4873,15 @@
     "fitness": 17,
     "pulse": 74,
     "sleep": 60,
-    "noise": NaN,
+    "noise": null,
     "home_location": "tokyo",
     "in_temperature": 204,
     "in_humidity": 30,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 305,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 0,
     "year_of_birth": 1941,
     "height": 189,
@@ -4889,15 +4889,15 @@
     "fitness": 45,
     "pulse": 81,
     "sleep": 91,
-    "noise": NaN,
+    "noise": null,
     "home_location": "moscow",
     "in_temperature": 254,
     "in_humidity": 35,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 306,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 1954,
     "height": 150,
@@ -4905,15 +4905,15 @@
     "fitness": 39,
     "pulse": 71,
     "sleep": 94,
-    "noise": NaN,
+    "noise": null,
     "home_location": "budapest",
     "in_temperature": 285,
     "in_humidity": 39,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 307,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 1942,
     "height": 183,
@@ -4921,15 +4921,15 @@
     "fitness": 31,
     "pulse": 83,
     "sleep": 60,
-    "noise": NaN,
+    "noise": null,
     "home_location": "kairo",
     "in_temperature": 179,
     "in_humidity": 36,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 308,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 1940,
     "height": 162,
@@ -4937,15 +4937,15 @@
     "fitness": 74,
     "pulse": 62,
     "sleep": 98,
-    "noise": NaN,
+    "noise": null,
     "home_location": "kairo",
     "in_temperature": 205,
     "in_humidity": 45,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 309,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 0,
     "year_of_birth": 1966,
     "height": 169,
@@ -4953,15 +4953,15 @@
     "fitness": 12,
     "pulse": 75,
     "sleep": 60,
-    "noise": NaN,
+    "noise": null,
     "home_location": "tokyo",
     "in_temperature": 275,
     "in_humidity": 38,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 310,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 1950,
     "height": 150,
@@ -4969,15 +4969,15 @@
     "fitness": 37,
     "pulse": 70,
     "sleep": 73,
-    "noise": NaN,
+    "noise": null,
     "home_location": "tokyo",
     "in_temperature": 296,
     "in_humidity": 47,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 311,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 1959,
     "height": 166,
@@ -4985,15 +4985,15 @@
     "fitness": 18,
     "pulse": 67,
     "sleep": 88,
-    "noise": NaN,
+    "noise": null,
     "home_location": "london",
     "in_temperature": 228,
     "in_humidity": 41,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 312,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 1936,
     "height": 173,
@@ -5001,15 +5001,15 @@
     "fitness": 24,
     "pulse": 63,
     "sleep": 44,
-    "noise": NaN,
+    "noise": null,
     "home_location": "kairo",
     "in_temperature": 208,
     "in_humidity": 41,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 313,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 0,
     "year_of_birth": 1964,
     "height": 174,
@@ -5017,15 +5017,15 @@
     "fitness": 68,
     "pulse": 66,
     "sleep": 94,
-    "noise": NaN,
+    "noise": null,
     "home_location": "bucharest",
     "in_temperature": 277,
     "in_humidity": 45,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 314,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 0,
     "year_of_birth": 1962,
     "height": 188,
@@ -5033,15 +5033,15 @@
     "fitness": 18,
     "pulse": 67,
     "sleep": 40,
-    "noise": NaN,
+    "noise": null,
     "home_location": "miercurea ciuc",
     "in_temperature": 232,
     "in_humidity": 33,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 315,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 0,
     "year_of_birth": 1938,
     "height": 193,
@@ -5049,15 +5049,15 @@
     "fitness": 46,
     "pulse": 81,
     "sleep": 58,
-    "noise": NaN,
+    "noise": null,
     "home_location": "kairo",
     "in_temperature": 180,
     "in_humidity": 60,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 316,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 0,
     "year_of_birth": 1946,
     "height": 162,
@@ -5065,15 +5065,15 @@
     "fitness": 11,
     "pulse": 69,
     "sleep": 77,
-    "noise": NaN,
+    "noise": null,
     "home_location": "budapest",
     "in_temperature": 253,
     "in_humidity": 43,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 317,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 1958,
     "height": 154,
@@ -5081,15 +5081,15 @@
     "fitness": 14,
     "pulse": 60,
     "sleep": 66,
-    "noise": NaN,
+    "noise": null,
     "home_location": "london",
     "in_temperature": 202,
     "in_humidity": 62,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 318,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 0,
     "year_of_birth": 1957,
     "height": 194,
@@ -5097,15 +5097,15 @@
     "fitness": 12,
     "pulse": 77,
     "sleep": 56,
-    "noise": NaN,
+    "noise": null,
     "home_location": "london",
     "in_temperature": 182,
     "in_humidity": 46,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 319,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 1963,
     "height": 168,
@@ -5113,15 +5113,15 @@
     "fitness": 66,
     "pulse": 81,
     "sleep": 70,
-    "noise": NaN,
+    "noise": null,
     "home_location": "budapest",
     "in_temperature": 247,
     "in_humidity": 37,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 320,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 1960,
     "height": 186,
@@ -5129,15 +5129,15 @@
     "fitness": 15,
     "pulse": 74,
     "sleep": 61,
-    "noise": NaN,
+    "noise": null,
     "home_location": "tokyo",
     "in_temperature": 172,
     "in_humidity": 39,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 321,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 1964,
     "height": 152,
@@ -5145,15 +5145,15 @@
     "fitness": 29,
     "pulse": 80,
     "sleep": 58,
-    "noise": NaN,
+    "noise": null,
     "home_location": "moscow",
     "in_temperature": 164,
     "in_humidity": 61,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 322,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 0,
     "year_of_birth": 1956,
     "height": 173,
@@ -5161,15 +5161,15 @@
     "fitness": 22,
     "pulse": 79,
     "sleep": 57,
-    "noise": NaN,
+    "noise": null,
     "home_location": "bucharest",
     "in_temperature": 206,
     "in_humidity": 53,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 323,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 0,
     "year_of_birth": 1964,
     "height": 194,
@@ -5177,15 +5177,15 @@
     "fitness": 13,
     "pulse": 79,
     "sleep": 36,
-    "noise": NaN,
+    "noise": null,
     "home_location": "london",
     "in_temperature": 288,
     "in_humidity": 55,
-    "chronic_condition": NaN
+    "chronic_condition": null
   },
   {
     "id": 324,
-    "user_token": NaN,
+    "user_token": null,
     "sex": 1,
     "year_of_birth": 1932,
     "height": 191,
@@ -5193,10 +5193,10 @@
     "fitness": 9,
     "pulse": 80,
     "sleep": 83,
-    "noise": NaN,
+    "noise": null,
     "home_location": "moscow",
     "in_temperature": 190,
     "in_humidity": 62,
-    "chronic_condition": NaN
+    "chronic_condition": null
   }
 ]

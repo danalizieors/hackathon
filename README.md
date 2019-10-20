@@ -12,3 +12,5 @@ The backend web service is written in the Python programming language using Flas
 
 ## Structure
 The project is structured in backend and frontend, also there are some containers made for demonstration and development purposes. The mobile application was built using Android Studio with the necessary plugins installed for Dart and Flutter. The backend's components are containerized with Docker and can be started simultaneously with Docker-Compose.
+
+For the demonstration the open-source home automation server, Home Assistant is used. We have mocked a ReSTful mock sensor, which can modify its state based on HTTP post actions. The mobile application gathers data using the API provided by the automation server from IOT devices in the house.

@@ -64,6 +64,7 @@ class Database(PanDatabase):
             # identification
             'post_id_symptom',
             'post_id_solution',
+            'score',
         )
 
         self.suggestions = columns(

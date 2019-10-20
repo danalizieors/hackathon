@@ -3,6 +3,8 @@ version: '3'
 services:
   api:
     build: ./server
+    volumes:
+      - ./database:/home/database
     ports:
       - 5000:5000
   home:

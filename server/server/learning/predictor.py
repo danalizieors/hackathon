@@ -43,7 +43,7 @@ def predict(post):
     max_score = filtered_suggestions['score'].max()
     best_suggestion = DATABASE.suggestions[DATABASE.suggestions['score'] == max_score].to_dict('records')[0]
 
-    best_suggestion['text'] = best_suggestion['text'] + "might help you in your recovery"
+    best_suggestion['text'] = best_suggestion['text'] + " might help you in your recovery"
 
     return {
         'post': best_solution,

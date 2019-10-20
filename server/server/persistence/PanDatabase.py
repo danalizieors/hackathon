@@ -42,7 +42,4 @@ def write_json(data_frame, filename):
 
 
 def read_json(filename):
-    try:
-        return pd.read_json(filename, orient='records')
-    except ValueError:
-        return None
+    return pd.read_json(filename, orient='records')

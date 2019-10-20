@@ -70,5 +70,11 @@
     "symptom": "inflamed skin",
     "text": "Wearing clothes made from cotton instead of synthetic materials",
     "score": 14
+  },
+  {
+    "id": 12,
+    "symptom": "other",
+    "text": "Your doctor",
+    "score": 90
   }
 ]

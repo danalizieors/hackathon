@@ -1,4 +1,4 @@
-from flask import request
+from flask import request, jsonify
 from flask_restful import Resource
 
 import server.persistence.utils as u
@@ -11,4 +11,4 @@ class Advice(Resource):
         id = u.addPost(data)
         post = u.getPostBy(id)
         prediction = predict(post)
-        return prediction
+        return jsonify(prediction)

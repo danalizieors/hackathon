@@ -20,6 +20,7 @@ class Database(PanDatabase):
             'pulse',
             'sleep',
             'noise',
+            'chronic_condition'
             'home_location',
 
             # preferences

@@ -2,7 +2,7 @@ import pandas as pd
 
 from server.persistence.database import DATABASE
 
-DATABASE.load('../../database')
+DATABASE.load('database')
 #
 # for_kmeans = DATABASE.users[[
 #         'year_of_birth',
@@ -42,6 +42,8 @@ def predict(post):
     filtered_suggestions = DATABASE.suggestions[DATABASE.suggestions['symptom'] == post['symptom']]
     max_score = filtered_suggestions['score'].max()
     best_suggestion = DATABASE.suggestions[DATABASE.suggestions['score'] == max_score].to_dict('records')[0]
+
+    best_suggestion['text'] = best_suggestion['text'] + "might help you in your recovery"
 
     return {
         'post': best_solution,
